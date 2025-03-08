@@ -128,6 +128,7 @@ FIGURE-04: LED STATUS BASED ON SWITCH INPUTS
 
 
 UPLOAD YOUR TIMING DIGARAM HERE 
+![edge comupting 1 pic](https://github.com/user-attachments/assets/9c098494-311e-48da-a087-48d5b28ec951)
 
 
 
